@@ -1,0 +1,8 @@
+pandas
+jupyter
+tweepy
+instaloader
+facebook-scraper
+beautifulsoup4
+trafilatura
+requests
